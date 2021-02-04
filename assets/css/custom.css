@@ -1,0 +1,177 @@
+#header .header-inner #logo a .logo-default, #header #header-wrap #logo a .logo-default {
+    height: 50px;
+    margin-top: 8px;
+    width: 230px;
+}
+
+.dark #header .header-inner #logo a .logo-dark, .dark #header #header-wrap #logo a .logo-dark, #header.dark .header-inner #logo a .logo-dark, #header.dark #header-wrap #logo a .logo-dark {
+    height: 50px;
+    margin-top: 8px;
+    width: 230px;
+}
+
+#mainMenu nav > ul > li.hover-active > a, #mainMenu nav > ul > li.hover-active > span, #mainMenu nav > ul > li.current > a, #mainMenu nav > ul > li.current > span, #mainMenu nav > ul > li:hover > a, #mainMenu nav > ul > li:hover > span, #mainMenu nav > ul > li:focus > a, #mainMenu nav > ul > li:focus > span {
+    color: #7f3f98;
+}
+
+#mainMenu nav > ul > li .dropdown-menu > li.current > a, #mainMenu nav > ul > li .dropdown-menu > li.current > span, #mainMenu nav > ul > li .dropdown-menu > li:hover > a, #mainMenu nav > ul > li .dropdown-menu > li:hover > span, #mainMenu nav > ul > li .dropdown-menu > li:focus > a, #mainMenu nav > ul > li .dropdown-menu > li:focus > span, #mainMenu nav > ul > li .dropdown-menu > li:active > a, #mainMenu nav > ul > li .dropdown-menu > li:active > span, #mainMenu nav > ul > li .dropdown-menu > li.hover-active > a, #mainMenu nav > ul > li .dropdown-menu > li.hover-active > span{
+    color: #7f3f98;
+    /* background-color: rgb(253, 243, 243);
+    border-left: 3px solid #7f3f98; */
+    
+    
+}
+
+.heading-text.heading-section h2 {
+    font-size: 38px;
+}
+
+section {
+    padding: 40px 0;
+}
+
+address {
+    line-height: 30px;
+}
+
+button.btn:hover, button.btn:focus, button.btn:not(:disabled):not(.disabled):active, button.btn:not(:disabled):not(.disabled).active, .btn:not(.close):not(.mfp-close):hover, .btn:not(.close):not(.mfp-close):focus, .btn:not(.close):not(.mfp-close):not(:disabled):not(.disabled):active, .btn:not(.close):not(.mfp-close):not(:disabled):not(.disabled).active, a.btn:not([href]):not([tabindex]):hover, a.btn:not([href]):not([tabindex]):focus, a.btn:not([href]):not([tabindex]):not(:disabled):not(.disabled):active, a.btn:not([href]):not([tabindex]):not(:disabled):not(.disabled).active {
+    background-color: #7f3f98;
+    border-color: #7f3f98;
+}
+
+.text-medium {
+    font-size: 30px !important;
+}
+
+/* .inspiro-slider {
+    height: 105vh;
+} */
+
+/* .inspiro-slider .slide .slide-captions h2 {
+    font-size: 40px;
+    text-align: left;
+} */
+
+
+.fullscreen {
+        background-color: #f8f9fa;
+}
+
+.post-item.border .post-item-wrap {
+    border: none;
+}
+
+.icon-box.border .icon {
+    border: 3px solid #7f3f98;
+}
+
+.icon-box.border .icon i {
+    color: #7f3f98;
+}
+
+.page-menu {
+    border-top: none;
+}
+
+.portfolio-item .portfolio-description h3, .portfolio-item .grid-description h3, .portfolio-item .portfolio-links h3, .grid-item .portfolio-description h3, .grid-item .grid-description h3, .grid-item .portfolio-links h3 {
+    font-weight: 400;
+}
+
+.item-link {
+    color: purple;
+}
+
+#footer .copyright-content {
+    min-height: 10px;
+    padding: 10px 0px;
+    background-color:#9f579e;
+    color: white;
+}
+
+.grid-articles .post-entry:first-child .post-entry-meta .post-entry-meta-title h2, .grid-articles .post-entry:first-child .post-entry-meta .post-entry-meta-title h2 a, .grid-articles.grid-articles-v2 .post-entry:nth-child(2) .post-entry-meta .post-entry-meta-title h2 a {
+    font-size: 14px;
+}
+
+.press h5 {
+    color: #7f3f98;
+}
+
+.press h5:hover {
+    text-decoration: underline;
+}
+
+.light {
+    font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    color: #3e3c3c;
+}
+
+.background-colored {
+    background-color: #9f579e;
+}
+
+.breadcrumb ul .breadcrumb-item:hover, .breadcrumb ul .breadcrumb-item.active, .breadcrumb ul .breadcrumb-item:last-child, .breadcrumb ul li:hover, .breadcrumb ul li.active, .breadcrumb ul li:last-child, .breadcrumb ol .breadcrumb-item:hover, .breadcrumb ol .breadcrumb-item.active, .breadcrumb ol .breadcrumb-item:last-child, .breadcrumb ol li:hover, .breadcrumb ol li.active, .breadcrumb ol li:last-child {
+    color:  #7f3f98;
+}
+
+.modal p {
+    font-size: 15px;
+    color: black;
+}
+
+.single-post .post-item .post-item-description p {
+    color: #454444;
+}
+
+#mainMenu nav > ul > li > a {
+    color: #363535;
+}
+
+.related h6 {
+    color: #7f3f98;
+}
+
+.related h6:hover {
+    text-decoration: underline;
+}
+
+.single-post .post-item .post-item-description p {
+    font-size: 15px;
+}
+p {
+    color: #454444;
+    font-size: 14px;
+}
+
+a {
+    color: #7f3f98;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.modal p {
+    font-size: 14px;
+    color: #3e3c3c;
+    font-weight: 400;
+}
+
+.portfolio-item:not(.no-overlay):hover .portfolio-description, .portfolio-item:not(.no-overlay):hover .grid-description, .portfolio-item:not(.no-overlay):hover .portfolio-links, .grid-item:not(.no-overlay):hover .portfolio-description, .grid-item:not(.no-overlay):hover .grid-description, .grid-item:not(.no-overlay):hover .portfolio-links {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 600;
+    text-align: left;
+    margin-left: 0;
+    margin-top: 40px;
+}
+
+.portfolio-item .portfolio-description, .portfolio-item .grid-description, .portfolio-item .portfolio-links, .grid-item .portfolio-description, .grid-item .grid-description, .grid-item .portfolio-links {
+    text-align: left;
+    margin-left: 0;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+}
